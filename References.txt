@@ -1,0 +1,18 @@
+1 Assertible (n.d.). 7 HTTP methods every web developer should know and how to test them. [online] Assertible. Available at: https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them.
+2 W3Schools (2019). HTTP Methods GET vs POST. [online] W3schools.com. Available at: https://www.w3schools.com/tags/ref_httpmethods.asp.
+3 Restfulapi.net. (2019). HTTP Methods – REST API Verbs – REST API Tutorial. [online] Available at: https://restfulapi.net/http-methods/.
+4 Williams, L. (n.d.). PUT vs POST: What’s the Difference? [online] www.guru99.com. Available at: https://www.guru99.com/put-vs-post.html.
+5 www.tutorialsteacher.com. (n.d.). Implement Delete Method in Web API. [online] Available at: https://www.tutorialsteacher.com/webapi/implement-delete-method-in-web-api [Accessed 8 Sep. 2022].
+6 developer.mozilla.org. (n.d.). DELETE - HTTP | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE [Accessed 8 Sep. 2022].
+7 SearchAppArchitecture. (n.d.). The 5 essential HTTP methods in RESTful API development. [online] Available at: https://www.techtarget.com/searchapparchitecture/tip/The-5-essential-HTTP-methods-in-RESTful-API-development.
+8 steved0x (n.d.). Connect to project from browser/supported client - Azure DevOps. [online] docs.microsoft.com. Available at: https://docs.microsoft.com/en-us/azure/devops/organizations/projects/connect-to-projects?view=azure-devops&tabs=visual-studio-2019 [Accessed 8 Sep. 2022].
+9 sethmanheim (n.d.). Install Visual Studio and connect to Azure Stack Hub - Azure Stack Hub. [online] docs.microsoft.com. Available at: https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-install-visual-studio?view=azs-2206 [Accessed 8 Sep. 2022].
+10 WilliamDAssafMSFT (n.d.). Create a single database - Azure SQL Database. [online] docs.microsoft.com. Available at: https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal.
+11 Asanka, D. (2020). Creating your first Azure SQL Database. [online] SQL Shack - articles about database auditing, server performance, data recovery, and more. Available at: https://www.sqlshack.com/creating-your-first-azure-sql-database/ [Accessed 8 Sep. 2022].
+12 www.c-sharpcorner.com. (n.d.). Publish And Host ASP.NET Web API. [online] Available at: https://www.c-sharpcorner.com/UploadFile/3d39b4/publish-and-host-Asp-Net-web-api/ [Accessed 8 Sep. 2022].
+13 Mikejo5000 (n.d.). Publish an ASP.NET web app - Visual Studio (Windows). [online] docs.microsoft.com. Available at: https://docs.microsoft.com/en-us/visualstudio/deployment/quickstart-deploy-aspnet-web-app?view=vs-2022&tabs=azure [Accessed 8 Sep. 2022].
+14 www.c-sharpcorner.com. (n.d.). WebApi: WebApi Patch Update Using FromBody Parameter in WebApi Using MVC4 Template. [online] Available at: https://www.c-sharpcorner.com/UploadFile/97fc7a/webapi-webapi-patch-update-using-frombody-parameter-in-web/.
+15 www.youtube.com. (n.d.). HTTPPATCH: Create API to partially update an item | ASP.NET Core 5.0 Web API tutorial. [online] Available at: https://www.youtube.com/watch?v=SR_JEdhxWx0 [Accessed 8 Sep. 2022].
+
+‌
+‌
