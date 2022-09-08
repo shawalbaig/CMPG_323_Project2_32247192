@@ -23,4 +23,7 @@
 #### <br /> Part 4: 
 #### <br /> Create all the tables by running a script and then create all the methods for each controller(table).
 #### <br /> Part 5:
-#### <br /> 
+#### <br /> Publish the Web API project, Push all the required files onto github and update github.
+###### <br /> How to use the files:
+#### <br /> Dont 
+
