@@ -20,4 +20,7 @@
 #### <br /> Create a Web Api Project on visual studio and create a database on azure.
 #### <br /> Part 3:
 #### <br /> Connect the database to the visual studio project and install all the required packages.
-#### <br />-Part 2:
+#### <br /> Part 4: 
+#### <br /> Create all the tables by running a script and then create all the methods for each controller(table).
+#### <br /> Part 5:
+#### <br /> 
