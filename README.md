@@ -13,4 +13,11 @@
 #### <br />-Microsoft.OpenApi.
 #### <br />-Swashbuckle.AspNetCore.
 #### <br />-Microsoft.VisualStudio.Web.CodeGeneration.Design.
-
+##<br />-Project Parts :
+#### <br /> Part 1:
+#### <br /> Complete the training provided.
+#### <br /> Part 2:
+#### <br /> Create a Web Api Project on visual studio and create a database on azure.
+#### <br /> Part 3:
+#### <br /> Connect the database to the visual studio project and install all the required packages.
+#### <br />-Part 2:
