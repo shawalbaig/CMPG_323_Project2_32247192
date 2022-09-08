@@ -8,5 +8,9 @@
 #### <br />The following packages needed to be installed on visual studio.
 #### <br />-Microsoft.EntityFrameworkCore.
 #### <br />-Microsoft.EntityFrameworkCore.Design.
--
+#### <br />-Microsoft.EntityFrameworkCore.SqlServer.
+#### <br />-Microsoft.EntityFrameworkCore.Tools.
+#### <br />-Microsoft.OpenApi.
+#### <br />-Swashbuckle.AspNetCore.
+#### <br />-Microsoft.VisualStudio.Web.CodeGeneration.Design.
 
